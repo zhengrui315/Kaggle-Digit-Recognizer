@@ -9,5 +9,4 @@ In this competition, your goal is to correctly identify digits from a dataset of
 Practice Skills
 Computer vision fundamentals including simple neural networks
 
-Classification methods such as SVM and K-nearest neighbors
 
